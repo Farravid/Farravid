@@ -3,7 +3,7 @@
 
 - 🔭 Animation Programmer at [Free Range Games](https://www.freerangegames.com/)
 
-- 🌱 I’m currently learning **Rust & Python**
+- 🌱 I’m currently learning **C++ High Performance**
 
 <h3 align="left">Languages</h3>
 <p>
