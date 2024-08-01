@@ -1,5 +1,5 @@
 <div align="center">
-    <img alt="animated-svg" src="https://readme-typing-svg.demolab.com?font=Jira+Code&weight=900&size=35&duration=2000&pause=1000&color=de7b63&center=true&vCenter=true&repeat=true&width=700&height=100&lines=Farravid;Cpp High Performance SW" href="https://github.com/Farravid">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=2000&pause=1000&color=B2685D&center=true&vCenter=true&width=700&lines=Farravid;C%2B%2B+High+Performance+SW" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
